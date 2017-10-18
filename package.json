@@ -28,7 +28,7 @@
   "homepage": "https://github.com/jquense/react-widgets#readme",
   "peerDependencies": {
     "moment": ">=2.2.0",
-    "react-widgets": "^4.0.2"
+    "react-widgets": "smrt/react-widgets-moment"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
