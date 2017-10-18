@@ -1,6 +1,6 @@
 {
   "name": "react-widgets-moment",
-  "version": "smrt/react-widgets-moment,
+  "version": "smrt/react-widgets-moment",
   "description": "A moment.js localizer for react-widgets",
   "main": "index.js",
   "scripts": {
